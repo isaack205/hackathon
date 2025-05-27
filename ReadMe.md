@@ -4,7 +4,7 @@
 
 **Specifically Designed for Informal Market Shopkeepers in Runyiri, Kiambu County**
 
-[🌐 Launch the App](https://smart-retail-price-tracker.rork.app)
+[🌐 Launch the App](https://kiambu-market-oracle.lovable.app/)
 
 ---
 
@@ -32,7 +32,7 @@ The Smart Retail Price Tracker is an AI-powered platform tailored for informal m
 ## Getting Started
 
 1. **Access the App:**  
-   [https://smart-retail-price-tracker.rork.app](https://smart-retail-price-tracker.rork.app)
+   [https://kiambu-market-oracle.lovable.app/](https://kiambu-market-oracle.lovable.app/)
 
 2. **Device Requirements:**  
    - Optimized for Android smartphones (mobile-first, responsive design)
